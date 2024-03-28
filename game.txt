@@ -1,0 +1,6 @@
+{"score":12,"countOfCommonBallon":2,"countOfUniqueBallon":1,"countOfAngryBallon":0,"countOfClick":4}
+{"score":2,"countOfCommonBallon":2,"countOfUniqueBallon":0,"countOfAngryBallon":0,"countOfClick":2}
+{"score":0,"countOfCommonBallon":0,"countOfUniqueBallon":0,"countOfAngryBallon":0,"countOfClick":0}
+{"score":26,"countOfCommonBallon":6,"countOfUniqueBallon":2,"countOfAngryBallon":0,"countOfClick":8}
+{"score":0,"countOfCommonBallon":0,"countOfUniqueBallon":0,"countOfAngryBallon":0,"countOfClick":0}
+{"score":25,"countOfCommonBallon":5,"countOfUniqueBallon":2,"countOfAngryBallon":0,"countOfClick":8}
